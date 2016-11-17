@@ -20,9 +20,9 @@ would you want them to see?
 
 Introducing...**Desert Island.**
 
-[Link to Client Repo](https://github.com/SynergisticDeepities/desert-island-client)
+[Link to Client Repo](https://github.com/kopius/desert-island)
 ||
-[Link to Deployed Client](https://synergisticdeepities.github.io/desert-island-client)
+[Link to Deployed Client](https://kopius.github.io/desert-island)
 
 ## API endpoints
 
